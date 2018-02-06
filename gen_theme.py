@@ -10,40 +10,25 @@
 
 import re
 
-# **dracula-theme basic color palette**
-# referenced to: `dracula <https://github.com/zenorocha/dracula-theme#color-palette>`
-cl_background = "#282a36"
-cl_current_line = "#44475a"
-cl_selection = "#44475a"
-cl_foreground = "#f8f8f2"
-cl_comment = "#6272a4"
-cl_cyan = "#8be9fd"
-cl_green = "#50fa7b"
-cl_orange = "#ffb86c"
-cl_pink = "#ff79c6"
-cl_purple = "#bd93f9"
-cl_red = "#ff5555"
-cl_yellow = "#f1fa8c"
-
-# **dracula color scheme**
+# **pop color scheme**
 # I added 4 more colors, because ConEmu needs at least 16 colors.
 palette = [
-cl_background, # Black
-'#5443bc',     # DarkBlue
-'#66de3d',     # DarkGreen
-'#77d6fb',     # DarkCyan
-'#ee3c3c',     # DarkRed
-cl_purple,     # DarkMagenta
-cl_orange,     # DarkYellow
-cl_foreground, # Gray
-cl_selection,  # DarkGray
-cl_comment,    # Blue
-cl_green,      # Green
-cl_cyan,       # Cyan
-cl_red,        # Red
-cl_pink,       # Magenta
-cl_yellow,     # Yellow
-cl_foreground, # White
+'#362d29',     # Black
+'#b267e6',     # DarkBlue
+'#ffc977',     # DarkCyan
+'#8bced6',     # DarkRed
+'#cd9731',     # DarkMagenta
+'#eeffff',     # DarkYellow
+'#05a6b3',     # Gray
+'#bebebe',     # DarkGray
+'#ffcb6b',     # Blue
+'#faa41a',     # Green
+'#73c48f',     # Cyan
+'#89ddff',     # Red
+'#f44747',     # Magenta
+'#b2ccd6',     # Yellow
+'#73c48f',     # White
+'#f44747',     # DarkGreen
 
 # **default extended colors**
 # I leave it unchanged.
