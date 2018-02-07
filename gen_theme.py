@@ -13,22 +13,22 @@ import re
 # **pop color scheme**
 
 palette = [
-'#362d29',     # Brown
+'#51443e',     # Brown
 '#b267e6',     # Purple
 '#ffc977',     # Tan
 '#8bced6',     # LightBlue
 '#cd9731',     # Gold
 '#73c48f',     # LightGreen
 '#05a6b3',     # BLue
-'#bebebe',     # LightGray
+'#ece9e7',     # LightGray
 '#ffcb6b',     # LightOrange
 '#faa41a',     # Orange
 '#73c48f',     # LightGreen
-'#89ddff',     # LightBlue
-'#f44747',     # Red
+'#31c4f0',     # LightBlue
+'#ecbd4b',     # Red
 '#b2ccd6',     # Blue/Gray
 '#73c48f',     # LightGreen
-'#f44747',     # Red
+'#ecbd4b',     # Red
 
 # **default extended colors**
 # I leave it unchanged.
