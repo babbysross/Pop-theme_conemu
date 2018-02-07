@@ -11,24 +11,24 @@
 import re
 
 # **pop color scheme**
-# I added 4 more colors, because ConEmu needs at least 16 colors.
+
 palette = [
-'#362d29',     # Black
-'#b267e6',     # DarkBlue
-'#ffc977',     # DarkCyan
-'#8bced6',     # DarkRed
-'#cd9731',     # DarkMagenta
-'#eeffff',     # DarkYellow
-'#05a6b3',     # Gray
-'#bebebe',     # DarkGray
-'#ffcb6b',     # Blue
-'#faa41a',     # Green
-'#73c48f',     # Cyan
-'#89ddff',     # Red
-'#f44747',     # Magenta
-'#b2ccd6',     # Yellow
-'#73c48f',     # White
-'#f44747',     # DarkGreen
+'#362d29',     # Brown
+'#b267e6',     # Purple
+'#ffc977',     # Tan
+'#8bced6',     # LightBlue
+'#cd9731',     # Gold
+'#73c48f',     # LightGreen
+'#05a6b3',     # BLue
+'#bebebe',     # LightGray
+'#ffcb6b',     # LightOrange
+'#faa41a',     # Orange
+'#73c48f',     # LightGreen
+'#89ddff',     # LightBlue
+'#f44747',     # Red
+'#b2ccd6',     # Blue/Gray
+'#73c48f',     # LightGreen
+'#f44747',     # Red
 
 # **default extended colors**
 # I leave it unchanged.
